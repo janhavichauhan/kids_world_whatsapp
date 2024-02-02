@@ -145,7 +145,7 @@ function updateTotalPrice() {
 }
 
 var whatsappMessage =
-  "https://api.whatsapp.com/send?phone=1234567890000&text=Order%20details";
+  "https://api.whatsapp.com/send?phone=8888888888&text=Order%20details";
 
 function updateWhatsappMessage() {
   for (let index = 0; index < shoppingItems.length; index++) {
